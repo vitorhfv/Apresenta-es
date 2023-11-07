@@ -1,1 +1,1 @@
-Pasta pra arquivos de apresentação.
+Pasta pra arquivos de apresentação de portfolio. Habilidades em Excel (avançado) para análise de dados e R e Python, tanto para a extração, quanto para a análise e visualização de dados. A depender do problema, também faço uso de linguagem SQL para extração de informações ou DAX do Power BI para apresentações.
